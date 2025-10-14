@@ -19,7 +19,7 @@ From custom web development to AI-powered tools, our mission is simple: **turn i
 ## 📌 Featured Projects
 Here are some of our active and upcoming initiatives:
 - 🔹 [UrbanTrends Website](https://www.urbantrends.dev)  
-- 🔹 [UrbanTrends Developers](https://github.com/UrbanTrends/urbantrends-developers)  
+- 🔹 [UrbanTrends Developers](https://developers.urbantrends.dev)  
 - 🔹 [UrbanTrends AI Tools](https://github.com/UrbanTrends/urbantrends-ai-tools)  
 - 🔹 [UrbanTrends Case Studies](https://github.com/UrbanTrends/urbantrends-case-studies)  
 
