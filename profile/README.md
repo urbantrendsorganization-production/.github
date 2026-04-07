@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.urbantrends.dev/favicon.ico" width="60" alt="UrbanTrends Logo" />
+[<img src="https://www.urbantrends.dev/favicon.ico" width="60" alt="UrbanTrends Logo" />](https://www.urbantrends.dev/)
 
 # UrbanTrends.dev
 
