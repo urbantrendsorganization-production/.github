@@ -45,9 +45,9 @@ These are platforms being built and owned by UrbanTrends:
 | Product | Description | Stack | Status |
 |---|---|---|---|
 | [**urbantrends.dev**](https://www.urbantrends.dev) | Company website & services hub | React · Tailwind · Vercel | ✅ Live |
-| **RentFlow** | Mobile-first rent tracking for property agents with M-Pesa integration | Flutter · Node.js · Supabase | 🚧 In Development |
+| **RentFlow** | Mobile-first rent tracking for property agents with M-Pesa integration | Flutter · Node.js · Supabase | ✅ Live |
 | **AcademyOS** | School management system for small academies — multi-role portals, fee tracking | React · Express · MongoDB | 🚧 In Development |
-| **PortfolioU** | Talent marketplace for college students — portfolio builder + recruiter discovery | Next.js · Supabase · Tailwind | 🚧 In Development |
+| **PortfolioU** | Talent marketplace for college students — portfolio builder + recruiter discovery | Next.js · Supabase · Tailwind | ✅ Live |
 
 ---
 
