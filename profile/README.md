@@ -4,6 +4,9 @@
 
 # UrbanTrends.dev
 
+### A Technology Brand Under Genmars Tech Limited  
+**Business No: BN-93S95J2J**
+
 **Full-Cycle Software Company · Nairobi, Kenya**
 
 *We design, build, and ship production-grade digital products — from idea to infrastructure.*
@@ -18,9 +21,26 @@
 
 ## Who We Are
 
-UrbanTrends is a software company rooted in Nairobi, Kenya, building for the East African market and beyond. We are not a generic agency — we are a product-minded engineering team that takes ownership of problems end-to-end: from scoping and architecture to deployment and ongoing infrastructure.
+UrbanTrends.dev is the technology and innovation brand operating under **Genmars Tech Limited**, a registered software and digital infrastructure company based in Nairobi, Kenya.
+
+We build scalable software systems, cloud-native infrastructure, enterprise SaaS platforms, APIs, and AI-powered products tailored for modern businesses across East Africa and beyond.
+
+We are not a generic agency — we are a product-minded engineering company that takes ownership of problems end-to-end: from strategy and architecture to deployment, scaling, and infrastructure management.
 
 Our clients range from SMEs and startups to institutions and agencies that need software that actually works — on time, at scale, and built with the local ecosystem in mind.
+
+---
+
+## About Genmars Tech Limited
+
+| Field | Details |
+|---|---|
+| **Registered Company** | Genmars Tech Limited |
+| **Business Number** | BN-93S95J2J |
+| **Technology Brand** | UrbanTrends.dev |
+| **Industry** | Software Development & Digital Infrastructure |
+| **Location** | Nairobi, Kenya |
+| **Core Focus** | SaaS · APIs · AI Systems · Cloud Infrastructure |
 
 ---
 
@@ -33,21 +53,40 @@ Our clients range from SMEs and startups to institutions and agencies that need 
 | 🔌 **API Development & Integrations** | REST APIs, M-Pesa Daraja, Africa's Talking, payment gateways |
 | ⚙️ **DevOps & CI/CD** | GitHub Actions pipelines, Docker, automated deployments |
 | ☁️ **Cloud Infrastructure** | VPS management, Nginx, SSL, DigitalOcean / AWS / Hetzner |
+| 🤖 **AI Agents & Automation** | AI workflows, automation systems, retrieval pipelines, intelligent assistants |
+| 🧩 **Microservices & BaaS** | Authentication, billing, notifications, storage & developer infrastructure |
 | 🎨 **UI/UX & Design Systems** | Clean, performant interfaces built with Tailwind CSS & shadcn/ui |
 | 🔍 **Tech Consulting & Audits** | Architecture reviews, stack recommendations, codebase audits |
 
 ---
 
+## Backend-as-a-Service (BaaS) Platforms
+
+Genmars Tech Limited, through UrbanTrends.dev, is building reusable infrastructure platforms for startups and businesses.
+
+| Platform | Description |
+|---|---|
+| 🔐 **Authentication BaaS** | OAuth, RBAC, MFA, secure identity systems |
+| 💳 **Billing BaaS** | Subscription billing, invoices & payment infrastructure |
+| 📨 **Notification BaaS** | Email, SMS, WhatsApp & push notification APIs |
+| 🤖 **AI Workflow BaaS** | AI agents, orchestration & business automation |
+| ☁️ **Storage BaaS** | Secure cloud storage and file delivery |
+| 📊 **Analytics BaaS** | Event tracking, dashboards & reporting infrastructure |
+| 🪪 **KYC BaaS** | Identity verification and compliance APIs |
+
+---
+
 ## Our Products
 
-These are platforms being built and owned by UrbanTrends:
+These are platforms being built and owned by UrbanTrends.dev under Genmars Tech Limited:
 
 | Product | Description | Stack | Status |
 |---|---|---|---|
-| [**urbantrends.dev**](https://www.urbantrends.dev) | Company website & services hub | React · Tailwind · Vercel | ✅ Live |
+| [**urbantrends.dev**](https://www.urbantrends.dev) | Company website & services hub | React · Tailwind · Vercel | ⚠️ Temporarily Offline (VPS Maintenance) |
 | [**rentflow.urbantrends.dev**](https://rentflow.urbantrends.dev) | Mobile-first rent tracking for property agents with M-Pesa integration | Flutter · Node.js · Supabase | ✅ Live |
 | **AcademyOS** | School management system for small academies — multi-role portals, fee tracking | React · Express · MongoDB | 🚧 In Development |
 | [**portfoliou.urbantrends.dev**](https://portfoliou.urbantrends.dev) | Talent marketplace for college students — portfolio builder + recruiter discovery | Next.js · Supabase · Tailwind | ✅ Live |
+| **AIFlow Engine** | AI orchestration & workflow automation platform | Python · LangGraph · PostgreSQL | 🚧 In Development |
 
 ---
 
@@ -80,7 +119,16 @@ Every product we ship is held to these principles:
 - **Performance-first** — we optimise before it's a problem, not after
 - **Scalable by design** — architecture decisions made with growth in mind
 - **East Africa-native** — M-Pesa, local UX patterns, and connectivity realities baked in from day one
+- **AI-ready infrastructure** — systems designed for automation and intelligent workflows
 - **Owned end-to-end** — we don't hand off half-built work; we see projects through to production
+
+---
+
+## Vision
+
+Genmars Tech Limited aims to build a modern African technology ecosystem powered by scalable software infrastructure, AI systems, cloud-native platforms, and developer-first APIs.
+
+Through UrbanTrends.dev, we are building tools and platforms that help businesses automate operations, scale digitally, and compete globally.
 
 ---
 
@@ -90,15 +138,18 @@ Whether you need a product built from scratch, an existing codebase rescued, or 
 
 | | |
 |---|---|
-| 🌐 **Website** | [www.urbantrends.dev](https://www.urbantrends.dev) |
-| 📧 **Email** | [urbantrendsorganization@gmail.com](mailto:urbantrendsorganization@gmail.com) |
-| 📞 **Phone / WhatsApp** | [+254 795 980 484](tel:+254795980484) |
+| 🌐 **Website** | https://www.urbantrends.dev |
+| 📧 **Email** | urbantrendsorganization@gmail.com |
+| 📞 **Phone / WhatsApp** | +254 795 980 484 |
 | 📍 **Location** | Nairobi, Kenya |
+| 🏢 **Registered Company** | Genmars Tech Limited |
 
 ---
 
 <div align="center">
 
-*UrbanTrends — where engineering rigour meets product thinking.*
+### *UrbanTrends.dev · Powered by Genmars Tech Limited*
+
+*Where engineering rigour meets product thinking.*
 
 </div>
