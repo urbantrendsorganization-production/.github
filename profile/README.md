@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://res.cloudinary.com/dvifkm1ex/image/upload/v1778419412/Urban_4_rmboxs.svg" width="72" alt="UrbanTrends Logo" />](https://www.urbantrends.dev/)
+[<img src="https://res.cloudinary.com/dozc2853y/image/upload/v1782941305/WhatsApp_Image_2026-06-12_at_11.40.47_jp5ikk.jpg" width="72" alt="UrbanTrends Logo" />](https://www.urbantrends.dev/)
 
 # UrbanTrends.dev
 
